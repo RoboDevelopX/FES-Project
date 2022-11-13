@@ -39,6 +39,3 @@ An internal winform application used by admins, which it woks hand-in-hand with 
 ![Student Portal](https://user-images.githubusercontent.com/72506370/147422544-cab5793f-1077-46b3-94f5-1481b031fe45.png)
 ![Payment gateway](https://user-images.githubusercontent.com/72506370/147422540-56a85573-2a0e-4f17-a480-cba974cbe90a.png)
 
-
-
-**Checkout [sister project](https://github.com/MpiloNtombela/MajorProject-Site)**
